@@ -1,7 +1,6 @@
 package org.example;
 
 import org.thymeleaf.context.Context;
-import org.thymeleaf.web.servlet.JavaxServletWebApplication;
 
 import javax.servlet.FilterChain;
 import javax.servlet.ServletException;
